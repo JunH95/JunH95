@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>데이터로 문제를 정의하고 AI로 가치를 구현합니다</h3>
-  <p>조선해양공학 전공 및 품질관리 실무를 거쳐, 현재는 국방 및 제조 도메인에 특화된 AI 개발자로 성장하고 있습니다.<br>현상 이면의 데이터를 분석하고, 이를 실용적인 웹 시스템과 결합하여 실질적인 솔루션을 만드는 데 몰두합니다.</p>
+  <p>조선해양공학 전공과 선박 품질관리(QA) 실무를 거치며 현장의 문제를 데이터로 해결하는 일에 매력을 느꼈고, 현재는 데이터 분석과 머신러닝을 실제로 동작하는 시스템으로 구현하는 AI 개발자로 성장하고 있습니다. 현상 이면의 데이터를 분석하고, 이를 웹·백엔드 시스템과 결합해 실질적인 가치를 만드는 솔루션에 몰두합니다.</p>
 </div>
 
 <br>
@@ -23,7 +23,6 @@
 ### AI & Data
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
